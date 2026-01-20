@@ -1,0 +1,31 @@
+Place_Name,Country,City,Annual_Visitors_Millions,Type,UNESCO_World_Heritage,Year_Built,Entry_Fee_USD,Best_Visit_Month,Region,Tourism_Revenue_Million_USD,Average_Visit_Duration_Hours,Famous_For
+Eiffel Tower,France,Paris,7,Monument/Tower,No,1889,35,May-June/Sept-Oct,Western Europe,95,2.5,"Iconic iron lattice tower, symbol of Paris"
+Times Square,United States,New York City,50,Urban Landmark,No,1904,0,Apr-June/Sept-Nov,North America,70,1.5,"Bright lights, Broadway shows, New Year's Eve ball drop"
+Louvre Museum,France,Paris,8.7,Museum,Yes,1793,22,Oct-March,Western Europe,120,4,"World's most visited museum, home to Mona Lisa"
+Great Wall of China,China,Beijing/Multiple,10,Historic Monument,Yes,220 BC - 1644 AD,10,Apr-May/Sept-Oct,East Asia,180,4,Ancient defensive structure visible from space
+Taj Mahal,India,Agra,7.5,Monument/Mausoleum,Yes,1653,15,Oct-March,South Asia,65,2,"White marble mausoleum, symbol of love"
+Colosseum,Italy,Rome,7.65,Historic Monument,Yes,80,18,Apr-May/Sept-Oct,Southern Europe,85,2.5,Ancient Roman amphitheater for gladiator battles
+Statue of Liberty,United States,New York City,4.3,Monument/Statue,Yes,1886,25,May-Sept,North America,45,2,Symbol of freedom and democracy
+Sydney Opera House,Australia,Sydney,8.2,Cultural Building,Yes,1973,49,Sept-Nov,Oceania,110,1.5,"Unique sail-like design, performing arts center"
+Machu Picchu,Peru,Cusco Region,1.5,Archaeological Site,Yes,1450,70,Apr-Oct,South America,180,8,Ancient Incan citadel in the Andes mountains
+Forbidden City,China,Beijing,9,Historic Palace,Yes,1420,8,Apr-May/Sept-Oct,East Asia,75,3,Imperial palace of Ming and Qing dynasties
+Angkor Wat,Cambodia,Siem Reap,2.6,Temple Complex,Yes,1150,37,Nov-Feb,Southeast Asia,90,6,"Largest religious monument, Hindu-Buddhist temple"
+Notre-Dame Cathedral,France,Paris,13,Cathedral,Yes,1345,0,Apr-June/Sept-Oct,Western Europe,50,1,"Gothic masterpiece, medieval Catholic cathedral"
+Central Park,United States,New York City,42,Park,No,1857,0,May-Sept,North America,35,3,Urban park oasis in Manhattan
+Las Vegas Strip,United States,Las Vegas,41.7,Entertainment District,No,1905,0,March-May/Sept-Nov,North America,6800,8,"Casino resorts, entertainment, nightlife"
+Empire State Building,United States,New York City,4.6,Skyscraper,No,1931,44,May-Sept,North America,115,1.5,"Art Deco skyscraper, NYC icon"
+Golden Gate Bridge,United States,San Francisco,15,Bridge,No,1937,0,Sept-Nov,North America,80,1,"Suspension bridge, engineering marvel"
+Lincoln Memorial,United States,Washington D.C.,8.5,Monument/Memorial,No,1922,0,Apr-June/Sept-Oct,North America,25,1,Memorial to President Abraham Lincoln
+Sagrada Familia,Spain,Barcelona,4.7,Cathedral,Yes,Under Construction (Started 1882),26,Apr-June/Sept-Oct,Southern Europe,130,2,"Gaudí's unfinished basilica, unique architecture"
+Disneyland (California),United States,Anaheim,16,Theme Park,No,1955,104,Apr-May/Sept-Nov,North America,3200,8,Original Disney theme park
+Magic Kingdom (Orlando),United States,Orlando,17,Theme Park,No,1971,109,Jan-May/Sept-Dec,North America,4500,10,Disney World's flagship park with Cinderella Castle
+Grand Canyon,United States,Arizona,6,Natural Wonder,Yes,Natural Formation,35,March-May/Sept-Nov,North America,780,5,Massive canyon carved by Colorado River
+Great Pyramid of Giza,Egypt,Cairo,2.8,Historic Monument,Yes,2550,20,Oct-Apr,North Africa,40,3,"Only remaining ancient wonder, pharaoh's tomb"
+Leaning Tower of Pisa,Italy,Pisa,5,Historic Tower,Yes,1372,20,Apr-May/Sept-Oct,Southern Europe,55,1.5,"Tilted bell tower, architectural anomaly"
+Palace of Versailles,France,Versailles,7.7,Historic Palace,Yes,1682,21,Apr-June/Sept-Oct,Western Europe,180,4,"Opulent royal residence, Hall of Mirrors"
+Acropolis,Greece,Athens,4,Archaeological Site,Yes,447,13,Apr-May/Sept-Oct,Southern Europe,60,3,"Ancient citadel, Parthenon temple"
+Burj Khalifa,United Arab Emirates,Dubai,6,Skyscraper,No,2010,45,Nov-March,Middle East,350,2,Tallest building in the world
+Big Ben,United Kingdom,London,5.5,Clock Tower,Yes,1859,0,Apr-June/Sept-Oct,Western Europe,65,0.5,"Clock tower, Westminster Palace"
+Tower Bridge,United Kingdom,London,6.8,Bridge,No,1894,0,May-Sept,Western Europe,70,1,Victorian Gothic suspension bridge
+Buckingham Palace,United Kingdom,London,15,Palace,No,1703,0,June-Sept,Western Europe,120,1,Official residence of British monarch
+Christ the Redeemer,Brazil,Rio de Janeiro,2.2,Monument/Statue,No,1931,12,Apr-June/Sept-Nov,South America,35,1.5,Art Deco statue of Jesus Christ
