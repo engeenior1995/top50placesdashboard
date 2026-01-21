@@ -3,11 +3,7 @@ import pandas as pd
 import numpy as np
 import plotly.express as px
 import plotly.graph_objects as go
-import matplotlib.pyplot as plt
-import seaborn as sns
-import altair as alt
 from datetime import datetime
-import pydeck as pdk
 import os
 
 # Set page configuration
@@ -1510,4 +1506,5 @@ def show_explorer_page(filtered_df):
         )
 
 if __name__ == "__main__":
+
     main()
